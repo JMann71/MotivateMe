@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MotivateME</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="test_text">Testing... 123</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="home_text">Select an option.</string>
+    <string name="home_button_activities">Activities</string>
+    <string name="home_button_roll">Roll</string>
+    <string name="home_button_rewards">Rewards</string>
+
+    <string name="roll_button_home">Home</string>
+    <string name="roll_button_roll">Roll</string>
+    <string name="roll_text"></string>
+
+    <string name="activities_button_home">Home</string>
+    <string-array name="Testing">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string name="rewards_button_home">Home</string>
+    <string name="rewards_button_add">Add</string>
+    <string name="rewards_button_clear">Clear</string>
+    <string name="rewards_title_rewards">Rewards:</string>
+    <string name="rewards_title_percent">% chance:</string>
+
+    <string name="activities_button_add">Add</string>
+    <string name="activities_button_clear">Clear</string>
+    <string name="activities_check">Done</string>
+
+    <string name="home_button_info">Info</string>
+    <string name="info_button_home">Home</string>
+    <string name="info_text">
+        Hello and welcome to the MotivateME app! <br />
+        <br />
+        This app is designed to let you reward yourself for working toward your goals,
+        whether they be long term goals, short term goals, or just things to improve yourself. <br />
+        <br />
+        To use this app, navigate to activities and input activities that you would like to complete.
+        Check the box when you\'ve completed that activity.<br />
+        <br />
+        Then, navigate to the rewards menu and input rewards and their chances.
+        The way to input chances is that this app will choose a number out of the total number of chances.
+        For example, if you have 2 rewards, 1 with a chance of 30 and another with a chance of 200,
+        30 times out of 230 times, reward number 1 will be chosen. <br />
+        <br />
+        Once Rewards have been set and you\'ve completed activities, navigate to the roll page.
+        In the roll page, you will be able to \"roll\" for rewards based on what you\'ve input.
+        The number of times you can roll is how many activities that you\'ve completed. <br />
+        <br />
+        Thank you for using MotivateME! Good luck in achieving your goals!
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
